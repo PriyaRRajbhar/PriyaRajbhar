@@ -1,18 +1,33 @@
-# 💫 About Me:
-# Welcome to My GitHub Profile!<br><br>## About Me<br>Hi there! I'm Priya Rajbhar, an aspiring software developer with a passion for coding and creating. I may be an introvert, but my love for dance, cooking, and coding keeps me busy and inspired. 🌟<br><br>## Skills<br>I'm currently learning and honing my skills in various technologies, including:<br>- **HTML & CSS**: Building the backbone and style of web pages.<br>- **JavaScript**: Bringing interactivity and dynamism to websites.<br>- **WordPress**: Crafting custom themes and plugins.<br>- **Bootstrap**: Making responsive and sleek designs.<br>- **PHP & ASP**: Server-side scripting and backend development.<br>- **MySQL**: Managing and querying databases.<br>- **GSAP**: Creating stunning animations.<br>- **Git & GitHub**: Version control and collaboration.<br><br>## Projects<br>Here are a few projects I've worked on:<br>1. **Project Name 1**: A brief description of what the project is and what technologies were used.<br>2. **Project Name 2**: Another project with a short summary and tech stack.<br><br>## Learning Journey<br>I'm on a continuous learning journey, always exploring new technologies and methodologies. Feel free to check out my repositories to see what I'm currently working on!<br><br>## Connect with Me<br>- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)<br>- [Twitter](https://twitter.com/your-twitter-handle)<br>- [Email](mailto:your-email@example.com)<br><br>Thank you for visiting my profile! I'm always open to feedback and collaboration. 😊<br>
+# Hi there, I'm Priya Rajbhar! 👋
 
+Welcome to my GitHub profile! I'm a passionate developer, continuous learner, and open source enthusiast. 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/prajbhar01/) [![LinkedIn](www.linkedin.com/in/priya-rajbhar01)](www.linkedin.com/in/priya-rajbhar01) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/PriyaRRajbhar) 
+## 😄 About Me
+- 🔭 I’m currently working on **exciting open-source projects** and exploring new technologies.
+- 🌱 I’m learning **full-stack development**, **cloud computing**, and diving deeper into **machine learning**.
+- 💬 Ask me about programming, tech trends, and open-source contributions!
+- 📫 How to reach me:
+  - **Email**: [priyarajbhar@example.com](mailto:priyarajbhar01@gmail.com)
+  - **LinkedIn**: [linkedin.com/in/priyarajbhar](www.linkedin.com/in/priya-rajbhar01)
+  - **Twitter**: [@rajbharpriya01](https://twitter.com/rajbharpriya01)
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PriyaRRajbhar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PriyaRRajbhar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyaRRajbhar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## ⚡ Fun Facts
+- I love experimenting with new coding frameworks and tools.
+- When I'm not coding, you can find me exploring the outdoors, reading tech blogs, or learning new skills.
+
+## 🛠️ Tech Stack
+- **Languages**: JavaScript, Python, Java, C++
+- **Web Development**: React, Node.js, Express
+- **Databases**: MySQL, MongoDB
+- **Tools**: Git
+
+## 🌟 My GitHub Stats
+![Priya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PriyaRRajbhar&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyaRRajbhar&layout=compact&theme=radical)
+
+## 📈 Let's Connect!
+Feel free to browse my repositories, contribute to my projects, or connect with me on social platforms. Let's build amazing things together!
 
 ---
-[![](https://visitcount.itsvg.in/api?id=PriyaRRajbhar&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+⭐️ From [PriyaRRajbhar](https://github.com/PriyaRRajbhar)
