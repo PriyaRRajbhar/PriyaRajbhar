@@ -7,8 +7,8 @@ Welcome to my GitHub profile! I'm a passionate developer, continuous learner, an
 - 🌱 I’m learning **full-stack development**, **cloud computing**, and diving deeper into **machine learning**.
 - 💬 Ask me about programming, tech trends, and open-source contributions!
 - 📫 How to reach me:
-  - **Email**: [priyarajbhar@example.com](mailto:priyarajbhar01@gmail.com)
-  - **LinkedIn**: [linkedin.com/in/priyarajbhar](www.linkedin.com/in/priya-rajbhar01)
+  - **Email**: [priyarajbhar01@gmail.com.com](mailto:priyarajbhar01@gmail.com)
+  - **LinkedIn**: [linkedin.com/in/priyarajbhar01](www.linkedin.com/in/priya-rajbhar01)
   - **Twitter**: [@rajbharpriya01](https://twitter.com/rajbharpriya01)
 
 ## ⚡ Fun Facts
